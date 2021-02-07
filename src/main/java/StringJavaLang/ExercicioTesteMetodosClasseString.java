@@ -1,3 +1,5 @@
+package StringJavaLang;
+
 import java.lang.*;
 import java.util.*;
 

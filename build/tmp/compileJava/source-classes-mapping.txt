@@ -1,2 +1,4 @@
-ExercicioTesteMetodosClasseString.java
- ExercicioTesteMetodosClasseString
+StringJavaLang/ExercicioTesteMetodosClasseString.java
+ StringJavaLang.ExercicioTesteMetodosClasseString
+ExercicioComIntStream/ExercicioIntStream.java
+ ExercicioComIntStream.ExercicioIntStream
