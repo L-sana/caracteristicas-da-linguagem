@@ -8,7 +8,7 @@ public class ExercicioIntStream {
 
         // teste basico IntStream laço de repetição
 
-        IntStream.of(1,2,3,4,5).forEach(n -> {
+        IntStream.of(1, 2, 3, 4, 5).forEach(n -> {
             System.out.println(n);
         });
 
